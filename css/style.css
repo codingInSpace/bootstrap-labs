@@ -7,3 +7,8 @@
 .lab1-content {
  	border-radius: 25px;
 }
+
+.icon-fw {
+	width: 1.5em;
+    text-align: center;
+}
