@@ -1,0 +1,9 @@
+.lab1-content,
+.lab1-topbar {
+	background-color: rgb(30, 30, 30);
+	color: white;
+}
+
+.lab1-content {
+ 	border-radius: 25px;
+}
